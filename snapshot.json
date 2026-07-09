@@ -1,0 +1,756 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-07-09",
+  "updatedAt": "2026-07-09T19:00:00Z",
+  "exportedAt": "2026-07-09T23:19:40.223Z",
+  "districtCode": "IA-02",
+  "data": {
+    "DISTRICT": {
+      "id": "ia-02",
+      "districtNumber": "IA-02",
+      "districtName": "Iowa's 2nd Congressional District",
+      "state": "Iowa",
+      "counties": [
+        "Allamakee",
+        "Benton",
+        "Black Hawk",
+        "Bremer",
+        "Buchanan",
+        "Butler",
+        "Cerro Gordo",
+        "Chickasaw",
+        "Clayton",
+        "Delaware",
+        "Dubuque",
+        "Fayette",
+        "Floyd",
+        "Grundy",
+        "Hardin",
+        "Howard",
+        "Linn",
+        "Mitchell",
+        "Poweshiek",
+        "Tama",
+        "Winneshiek",
+        "Worth"
+      ],
+      "majorPlaces": [
+        "Cedar Rapids",
+        "Waterloo",
+        "Cedar Falls",
+        "Dubuque",
+        "Mason City"
+      ],
+      "cycleYear": 2026,
+      "population": 761000,
+      "registeredVoters": 536744,
+      "partyRegistration": [
+        {
+          "label": "Republican",
+          "count": 179473,
+          "pct": 33.4
+        },
+        {
+          "label": "No Party",
+          "count": 198035,
+          "pct": 36.9
+        },
+        {
+          "label": "Democratic",
+          "count": 154458,
+          "pct": 28.8
+        },
+        {
+          "label": "Other",
+          "count": 4778,
+          "pct": 0.9
+        }
+      ],
+      "boundaryConfidence": "unconfirmed",
+      "electorateConfidence": "unconfirmed",
+      "previousResult": null,
+      "newsDiscoveryHints": {
+        "geographicHint": "IA-02 spans 22 rural and mid-size northeast Iowa counties anchored by Cedar Rapids/Linn County and Waterloo-Cedar Falls/Black Hawk County, with Dubuque and Mason City as secondary population centers; statewide Iowa SOS coverage and Black Hawk/Linn/Dubuque county auditor releases are more useful than any single district-specific outlet.",
+        "preferredOutlets": [
+          "KCRG",
+          "The Gazette (Cedar Rapids)",
+          "Waterloo-Cedar Falls Courier",
+          "Iowa Public Radio",
+          "Iowa Capital Dispatch",
+          "Telegraph Herald (Dubuque)",
+          "Ballotpedia News"
+        ]
+      }
+    },
+    "SOURCES": {
+      "src-ia-sos-elections": {
+        "id": "src-ia-sos-elections",
+        "name": "Iowa Secretary of State — Elections & Voting",
+        "short": "Iowa SOS Elections",
+        "url": "https://sos.iowa.gov/elections-voting",
+        "publisher": "Iowa Secretary of State (Paul Pate)",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ia-voterready": {
+        "id": "src-ia-voterready",
+        "name": "Iowa — Voter Ready portal",
+        "short": "Voter Ready Iowa",
+        "url": "https://voterready.iowa.gov/registertovote/",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Statewide hub for voter registration and voter ID information."
+      },
+      "src-ia-voter-id": {
+        "id": "src-ia-voter-id",
+        "name": "Iowa — Voter Ready: Voter ID Information",
+        "short": "Voter Ready ID",
+        "url": "https://voterready.iowa.gov/voter-id-information/",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ia-amiregistered": {
+        "id": "src-ia-amiregistered",
+        "name": "Iowa — Am I Registered to Vote?",
+        "short": "IA Am I Registered",
+        "url": "https://sos.iowa.gov/amiregistered",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ia-absentee-status": {
+        "id": "src-ia-absentee-status",
+        "name": "Iowa — Absentee Ballot Status Search",
+        "short": "IA Ballot Status",
+        "url": "https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirmed live and dated (records current as of 7/8/2026 per research)."
+      },
+      "src-ia-polling-lookup": {
+        "id": "src-ia-polling-lookup",
+        "name": "Iowa — Find My Precinct/Polling Place",
+        "short": "IA Polling Lookup",
+        "url": "https://sos.iowa.gov/voters/find-my-precinctpolling-place",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ia-vr-stats": {
+        "id": "src-ia-vr-stats",
+        "name": "Iowa SOS — Voter Registration Totals by Congressional District (May 2026)",
+        "short": "IA VR Stats",
+        "url": "https://sos.iowa.gov/elections/pdf/VRStatsArchive/2026/CongMay26.pdf",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "As of May 4, 2026: CD2 total 536,744 registered (454,040 active / 82,704 inactive)."
+      },
+      "src-ia-code-49-81": {
+        "id": "src-ia-code-49-81",
+        "name": "Iowa Code section 49.81 — Provisional ballots",
+        "short": "Iowa Code 49.81",
+        "url": "https://www.legis.iowa.gov/docs/code/49.81.pdf",
+        "publisher": "Iowa Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ia-legis-redistricting": {
+        "id": "src-ia-legis-redistricting",
+        "name": "Iowa Legislature — Redistricting (2021 congressional map)",
+        "short": "IA Redistricting",
+        "url": "https://www.legis.iowa.gov/legislators/redistricting",
+        "publisher": "Iowa Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-blackhawk-elections": {
+        "id": "src-blackhawk-elections",
+        "name": "Black Hawk County Elections — 2026 General Election page",
+        "short": "Black Hawk Elections",
+        "url": "https://blackhawkcountyelections.iowa.gov/elections/info/2026_general_election_2026_11_03/",
+        "publisher": "Black Hawk County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Anchor source for the statewide-uniform 2026 general-election calendar; Black Hawk is one of IA-02's 22 counties (Waterloo/Cedar Falls)."
+      },
+      "src-jones-elections": {
+        "id": "src-jones-elections",
+        "name": "Jones County Elections — General Election Nov 3 2026",
+        "short": "Jones Co. Elections",
+        "url": "https://www.jonescountyiowaelections.gov/elections/info/general_election_2026_11_03/",
+        "publisher": "Jones County Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-franklin-county-law-changes": {
+        "id": "src-franklin-county-law-changes",
+        "name": "Franklin County Iowa — Election Law Changes for Iowa Voters",
+        "short": "Franklin Co. Law Summary",
+        "url": "https://elections.franklincountyia.gov/news/election_law_changes_for_iowa_voters/",
+        "publisher": "Franklin County Auditor",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
+      },
+      "src-linn-elections": {
+        "id": "src-linn-elections",
+        "name": "Linn County Elections (Cedar Rapids)",
+        "short": "Linn Co. Elections",
+        "url": "https://www.linncountyiowa.gov/auditor",
+        "publisher": "Linn County Auditor",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Largest IA-02 county by population (Cedar Rapids)."
+      },
+      "src-iowa-public-radio": {
+        "id": "src-iowa-public-radio",
+        "name": "Iowa Public Radio — IA-02 election coverage",
+        "short": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-05-21/candidates-running-iowa-2nd-congressional-district-primary",
+        "publisher": "Iowa Public Radio",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Primary regional public-radio source for IA-02 candidate and district coverage."
+      },
+      "src-ballotpedia-ia-laws": {
+        "id": "src-ballotpedia-ia-laws",
+        "name": "Ballotpedia News — Iowa enacts five election bills in 2026",
+        "short": "Ballotpedia IA Laws 2026",
+        "url": "https://news.ballotpedia.org/2026/06/11/iowa-enacts-five-election-bills-in-2026-including-prohibition-on-foreign-donations-in-ballot-measure-elections/",
+        "publisher": "Ballotpedia",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-wikipedia-ia02": {
+        "id": "src-wikipedia-ia02",
+        "name": "Wikipedia — Iowa's 2nd congressional district",
+        "short": "Wikipedia IA-02",
+        "url": "https://en.wikipedia.org/wiki/Iowa%27s_2nd_congressional_district",
+        "publisher": "Wikipedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 7,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Used only as corroboration for the county list and prior-cycle results, not as sole source."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-ia02-absentee-request-open",
+        "milestone": "First day to submit absentee ballot request",
+        "electionType": "general",
+        "date": "2026-08-25",
+        "significance": "70 days before Election Day; county auditors begin accepting absentee ballot requests for the November 3 general election.",
+        "governingAuthority": "Black Hawk County Elections, Jones County Elections, and the 22 IA-02 county auditors",
+        "sourceIds": [
+          "src-blackhawk-elections",
+          "src-jones-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ia02-early-voting-open",
+        "milestone": "In-person absentee voting begins",
+        "electionType": "general",
+        "date": "2026-10-14",
+        "significance": "20 days before Election Day; in-person absentee voting opens at county auditors' offices and satellite locations.",
+        "governingAuthority": "Black Hawk County Elections, Jones County Elections",
+        "sourceIds": [
+          "src-blackhawk-elections",
+          "src-jones-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ia02-reg-deadline",
+        "milestone": "Voter pre-registration deadline",
+        "electionType": "general",
+        "date": "2026-10-19",
+        "significance": "15 days before Election Day, 5:00 PM. Last day for standard (online/mail) voter pre-registration; same-day registration is available in person on Election Day with proof of ID and residency.",
+        "governingAuthority": "Black Hawk County Elections",
+        "sourceIds": [
+          "src-blackhawk-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ia02-absentee-mail-request-deadline",
+        "milestone": "Deadline to request a mailed absentee ballot",
+        "electionType": "general",
+        "date": "2026-10-19",
+        "significance": "15 days before Election Day, 5:00 PM. Last day to request that an absentee ballot be mailed to the voter.",
+        "governingAuthority": "Black Hawk County Elections",
+        "sourceIds": [
+          "src-blackhawk-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ia02-early-voting-close",
+        "milestone": "Last day for in-person absentee voting",
+        "electionType": "general",
+        "date": "2026-11-02",
+        "significance": "In-person absentee voting closes at 4:30 PM the day before Election Day, per Black Hawk and Jones county pages.",
+        "governingAuthority": "Black Hawk County Elections, Jones County Elections",
+        "sourceIds": [
+          "src-blackhawk-elections",
+          "src-jones-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ia02-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. IA-02 open seat: Joe Mitchell (R) vs. Lindsay James (D), with independent Dave Bushaw also having filed (certification unconfirmed). Polls open 7:00 AM - 8:00 PM statewide.",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceIds": [
+          "src-ia-sos-elections",
+          "src-iowa-public-radio"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-ia02-absentee-receipt-deadline",
+        "milestone": "Absentee ballot receipt deadline",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Absentee ballots must be physically RECEIVED (not merely postmarked) by the county auditor by 8:00 PM on Election Day. Iowa eliminated its postmark-based grace period in the 2021 election-law overhaul; exceptions exist for Safe at Home program participants and UOCAVA (military/overseas) ballots, which have until noon the Monday after the election.",
+        "governingAuthority": "Black Hawk County Elections, Jones County Elections, county auditors statewide",
+        "sourceIds": [
+          "src-blackhawk-elections",
+          "src-jones-elections",
+          "src-franklin-county-law-changes"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-ia-no-postmark-grace-period",
+        "topic": "Absentee ballot receipt deadline — no postmark grace period",
+        "currentRule": "Iowa eliminated the postmark-based grace period in its 2021 election-law overhaul. Absentee ballots are only valid if physically received by the county auditor by 8:00 PM on Election Day. A postmark before Election Day no longer extends the receipt deadline, except for (a) Safe at Home program participants whose ballots are received by the Secretary of State in time to transmit to the county auditor by noon the Monday after the election, and (b) UOCAVA (military/overseas) ballots received by noon the Monday after the election.",
+        "status": "active",
+        "whyItMatters": "IA-02 voters across all 22 counties must ensure their absentee ballot physically arrives at the county auditor's office by 8:00 PM on November 3, 2026 — mailing it on or near Election Day is risky. This is a stricter rule than many neighboring states that still honor a postmark grace period.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-franklin-county-law-changes",
+          "src-blackhawk-elections",
+          "src-jones-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "See Franklin County's 2021 election-law summary and Adair County's mirrored page. NEEDS REVIEW: confirm exact statutory citation directly from Iowa Code/legislative text in a future pass."
+      },
+      {
+        "id": "rule-ia-ballot-curing",
+        "topic": "Absentee ballot-curing process for signature/affidavit defects",
+        "currentRule": "If an absentee ballot's affidavit envelope is unsigned or otherwise defective, the county auditor must notify the voter in writing (and by phone/email if provided) within 24 hours of receipt. The voter may then: (1) request a replacement ballot and return it by 8:00 PM on Election Day; (2) vote in person at the polls on Election Day; or (3) sign/correct the affidavit in person at the county auditor's office by 8:00 PM on Election Day.",
+        "status": "active",
+        "whyItMatters": "IA-02 voters whose absentee ballot envelope is flagged for a signature or affidavit problem have a narrow but workable path to cure it before 8:00 PM on Election Day. Uniform statewide rule, not IA-02-specific.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-code-49-81",
+          "src-franklin-county-law-changes"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Iowa Administrative Code 721-21.355 (Notice to voter). Confirmed in plain language by Franklin County's election-law summary and Marion County Auditor FAQ."
+      },
+      {
+        "id": "rule-ia-voter-id",
+        "topic": "Voter ID requirements at the polls",
+        "currentRule": "Iowa requires ID to cast a ballot. Acceptable primary forms: Iowa driver's license, Iowa non-operator's ID card, U.S. passport, U.S. military/veteran ID, a signed Iowa Voter ID card, or a tribal ID card/document. The Secretary of State issues free Voter ID cards to registered voters lacking another qualifying ID.",
+        "status": "active",
+        "whyItMatters": "IA-02 voters without one of the accepted forms of ID must obtain a free Iowa Voter ID card in advance or use a provisional ballot process on Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-voter-id"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Iowa Code Sections 48A.7A, 48A.10A, 49.78, 49.81 per NCSL's Voter ID Laws tracker."
+      },
+      {
+        "id": "rule-ia-hf2501-attestation-eliminated",
+        "topic": "Elimination of voter-attestation ID fallback (HF 2501)",
+        "currentRule": "HF 2501, signed into law and effective July 1, 2026, eliminates the option for another registered voter to attest to (vouch for) the identity of a voter who lacks accepted ID. It also expands the definition of \"election day\" for misconduct investigations and centralizes city/school election filings with county auditors.",
+        "status": "active",
+        "whyItMatters": "Effective before the November 3, 2026 general election, IA-02 voters who previously could have used a fellow registered voter's attestation in lieu of ID must now cast a provisional ballot and return with valid ID within the applicable cure window. Sources disagree on whether that cure window is three days or noon the following Monday.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ballotpedia-ia-laws",
+          "src-iowa-public-radio"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Signed by Gov. Kim Reynolds, announced May 3, 2026; effective July 1, 2026. NEEDS REVIEW: exact provisional-ballot cure deadline (three days per Iowa Public Radio's framing of HF 2501, versus the older 'noon the Monday following the election' rule) should be confirmed against the enrolled bill text at legis.iowa.gov before publishing voter-facing content."
+      },
+      {
+        "id": "rule-ia-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "Governed by Iowa Code Section 49.81. A prospective voter whose registration status is not active/pending, or who cannot establish required ID/residency (and, as of July 1, 2026, can no longer use attestation), casts a provisional ballot. Under the pre-2026 rule, the voter must provide the necessary ID either at the polling place before it closes at 8:00 PM, or at the county auditor's office by noon the following Monday.",
+        "status": "active",
+        "whyItMatters": "IA-02 voters flagged for ID or registration issues at the polls should understand the provisional-ballot process and cure window to ensure their vote counts.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-code-49-81"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: whether HF 2501 changed this cure deadline (some 2026 coverage says 'three days,' which may supersede the older 'noon Monday' rule) has not been confirmed against the enrolled bill text."
+      },
+      {
+        "id": "rule-ia-recount-hf928",
+        "topic": "Recount procedures and thresholds (HF 928)",
+        "currentRule": "HF 928, effective July 1, 2025, standardizes recount procedures across precincts and tightens recount-eligibility thresholds to 0.15% margin or less for statewide/federal races (1% or 50 votes, whichever is less, for other races). Recount administration shifted to county commissioners of elections (auditors) under Secretary of State oversight.",
+        "status": "active",
+        "whyItMatters": "If the IA-02 general election is decided by a very narrow margin, this statute governs whether and how a recount is triggered and conducted.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Signed by Gov. Reynolds June 2, 2025; fully operative for the 2026 cycle per research; no reported repeal, injunction, or amendment found."
+      },
+      {
+        "id": "rule-ia-hf954-no-rcv-citizenship-check",
+        "topic": "Statewide ban on ranked-choice voting and registration-time citizenship verification (HF 954)",
+        "currentRule": "HF 954 bans ranked-choice/instant-runoff voting statewide (effective January 1, 2026) and strengthens citizenship verification at the time of voter registration rather than at time of voting.",
+        "status": "active",
+        "whyItMatters": "Confirms IA-02's Nov. 3, 2026 general election will use traditional plurality voting, not ranked-choice, and that citizenship checks now occur at registration.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Signed by Gov. Reynolds June 2, 2025; effective dates July 1, 2025 and January 1, 2026 per LegiScan bill tracker. Fully operative for 2026 per research; no reported repeal, injunction, or amendment found."
+      },
+      {
+        "id": "rule-ia-drop-box-siting",
+        "topic": "Absentee ballot drop box siting restriction",
+        "currentRule": "Iowa does not maintain a statewide drop-box locator or requirement. Iowa law (2021 reforms) permits, but does not require, county auditors to provide drop boxes, and any drop box must be located on the grounds of or within the building where the county auditor conducts in-person absentee voting.",
+        "status": "active",
+        "whyItMatters": "Unlike some states, IA-02 voters cannot rely on a network of freestanding neighborhood drop boxes; any drop box option is tied to the county auditor's own office location. Voters should check with their specific county auditor (all 22 IA-02 counties) for availability.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-franklin-county-law-changes"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: this is a structural constraint on the res-ballot-box resource tile — no single IA-02-wide drop-box URL exists; see RESOURCES notes."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-register",
+        "label": "Register to vote",
+        "description": "Statewide hub for Iowa voter registration, including online registration and printable forms. Confirm eligibility and deadlines for the November 3, 2026 general election.",
+        "url": "https://voterready.iowa.gov/registertovote/",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-voterready",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Official Iowa tool to find your precinct and Election Day polling place, plus early-voting/absentee in-person site information.",
+        "url": "https://sos.iowa.gov/voters/find-my-precinctpolling-place",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-polling-lookup",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot drop-off options",
+        "description": "Iowa does not maintain a statewide drop-box locator; the state permits (but does not require) county auditors to offer a drop box, which by law must be located at the county auditor's own in-person absentee-voting site. Use the Iowa SOS county auditor directory to find your IA-02 county's specific drop-off option.",
+        "url": "https://sos.iowa.gov/elections-voting",
+        "governingAuthority": "Iowa Secretary of State (directory) / individual county auditors (actual drop-off sites)",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos-elections",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Official Iowa tool to confirm whether you are currently registered to vote and view your registration details.",
+        "url": "https://sos.iowa.gov/amiregistered",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-amiregistered",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your absentee ballot",
+        "description": "Official Iowa absentee-ballot status search. Confirmed live and dated (records current as of 7/8/2026 in research pass) — check when your absentee ballot request was received and when your ballot was returned.",
+        "url": "https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-absentee-status",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-verify",
+        "label": "Voter ID information",
+        "description": "Official explanation of Iowa's voter ID requirements at the polls, acceptable ID types, and how to obtain a free Iowa Voter ID card. Note: HF 2501 (effective July 1, 2026) eliminates the prior voter-attestation fallback for voters lacking ID.",
+        "url": "https://voterready.iowa.gov/voter-id-information/",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-voter-id",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Iowa Secretary of State elections hub, linking to statewide and county results. NEEDS REVIEW: the exact live-results-night URL for the November 2026 general election was not separately verified in research; the canvass-archive PDF directory (sos.iowa.gov/elections/pdf/results/) is a confirmed fallback for certified results.",
+        "url": "https://sos.iowa.gov/elections-voting",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos-elections",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-linn-county",
+        "label": "Linn County Elections (Cedar Rapids)",
+        "description": "Largest IA-02 county by population. County-level polling place, drop-box, and sample-ballot lookups supplementing the statewide tools above.",
+        "url": "https://www.linncountyiowa.gov/auditor",
+        "governingAuthority": "Linn County Auditor",
+        "sourceType": "official-county",
+        "sourceId": "src-linn-elections",
+        "lastVerified": "2026-07-09"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-ia02-001",
+        "title": "IA-02 dashboard initialized from wa-03 template — 15 sources, 7 events, 8 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build July 9, 2026, cloned from the WA-03 template structure. All 15 sources (Iowa SOS, Voter Ready, Black Hawk/Jones/Linn county elections, Franklin County law summary, Iowa Public Radio, Ballotpedia, Wikipedia) recorded from primary-source research. All 7 election events and 8 voting rules researched from Iowa SOS, Iowa Code, and county auditor sites, but all marked needsReview/unconfirmed pending human QA. Candidates: Joe Mitchell (R) vs. Lindsay James (D) after the June 2, 2026 primary; independent Dave Bushaw's ballot certification is unconfirmed.",
+        "sourceIds": [
+          "src-ia-sos-elections",
+          "src-blackhawk-elections",
+          "src-jones-elections",
+          "src-iowa-public-radio"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-ia02-002",
+        "title": "HF 2501 eliminates voter-attestation ID fallback effective July 1, 2026",
+        "fieldChanged": "Voter ID / provisional ballot rules",
+        "oldValue": "Voters lacking ID could have a fellow registered voter attest to their identity at the polls.",
+        "newValue": "Effective July 1, 2026, HF 2501 eliminates the attestation fallback; voters lacking accepted ID must cast a provisional ballot and return with valid ID within a cure window whose exact length (three days vs. noon the following Monday) is unconfirmed pending review of the enrolled bill text.",
+        "sourceIds": [
+          "src-ballotpedia-ia-laws",
+          "src-iowa-public-radio"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-ia02-003",
+        "title": "All rules and events flagged for county-level and legislative-text verification",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "8 voting rules and 7 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-07-09). Verify county list against an official Iowa Legislative Services Agency redistricting document, confirm exact 2024 previousResult vote totals against the SOS canvass PDF, and confirm HF 2501's cure-deadline text directly from legis.iowa.gov before publish.",
+        "sourceIds": [
+          "src-ia-legis-redistricting",
+          "src-ia-code-49-81"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-ia02-001",
+        "factInQuestion": "The exact length of the provisional-ballot ID cure window under HF 2501 for voters who previously relied on attestation and now lack accepted photo ID.",
+        "sourceAId": "src-iowa-public-radio",
+        "sourceAClaim": "Iowa Public Radio's April 16, 2026 report on HF 2501's passage frames the post-attestation cure window as \"three days\" for a voter to return with valid ID.",
+        "sourceBId": "src-ia-code-49-81",
+        "sourceBClaim": "The pre-2026 statutory framework under Iowa Code Section 49.81 (as summarized by county auditor pages such as Franklin County's) describes the provisional-ballot ID cure deadline as \"noon the Monday following the election.\"",
+        "whyItMatters": "IA-02 voters who cast a provisional ballot on November 3, 2026 due to lacking ID need a single, correct cure deadline. Using the wrong one on voter-facing content could cause a validly-curable ballot to go uncured, or create confusion about how much time is available.",
+        "suggestedReviewAction": "Pull HF 2501's enrolled bill text directly from legis.iowa.gov to determine whether it amended the Iowa Code 49.81 cure deadline, and update rule-ia-hf2501-attestation-eliminated and rule-ia-provisional-ballots accordingly before publishing voter-facing content.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-07-09T18:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-ia02-001",
+        "headline": "Iowa lawmakers pass bill to eliminate identity vouching at the polls for voters without ID",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/state-government-news/2026-04-16/iowa-lawmakers-pass-bill-to-eliminate-identity-vouching-at-the-polls-for-voters-without-id",
+        "publishedAt": "2026-04-16",
+        "relevanceSummary": "Reports passage of HF 2501, which removes the voter-attestation ID fallback ahead of the November 3, 2026 general election. Directly affects IA-02 voters who lack accepted photo ID.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-002",
+        "headline": "Iowa shares sensitive voter data with the Department of Justice",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/state-government-news/2026-05-05/iowa-shares-voter-data-with-justice-department",
+        "publishedAt": "2026-05-05",
+        "relevanceSummary": "Secretary of State Paul Pate confirmed the transfer of Iowans' voter registration data, including driver's license numbers and partial Social Security numbers, to the U.S. DOJ, a development IA-02 voters may ask about ahead of the general election.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-003",
+        "headline": "Iowa's 2nd Congressional District primary draws contested races on both sides",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-05-21/candidates-running-iowa-2nd-congressional-district-primary",
+        "publishedAt": "2026-05-21",
+        "relevanceSummary": "Details the open-seat IA-02 primary field (Mitchell/McClintock; James/Twedt-Ball/Dolter), confirms independent candidate Dave Bushaw, and confirms the district's Republican registration lean.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-004",
+        "headline": "2026 Iowa primary election results",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-06-02/2026-iowa-primary-election-results",
+        "publishedAt": "2026-06-02",
+        "relevanceSummary": "Reports Joe Mitchell (R) and Lindsay James (D) as the IA-02 primary winners who will meet in the November general election.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-005",
+        "headline": "Iowa enacts five election bills in 2026, including prohibition on foreign donations in ballot measure elections",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/06/11/iowa-enacts-five-election-bills-in-2026-including-prohibition-on-foreign-donations-in-ballot-measure-elections/",
+        "publishedAt": "2026-06-11",
+        "relevanceSummary": "Rounds up all Iowa election-law bills signed in 2026, including HF 2501's attestation elimination, relevant to dashboard accuracy on current IA-02 rules.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-006",
+        "headline": "Iowa Down Ballot with Dave Price 7/4/26",
+        "sourceName": "Iowa Writers' Collaborative (Substack)",
+        "url": "https://iowawriterscollaborative.substack.com/p/iowa-down-ballot-with-dave-price-20b",
+        "publishedAt": "2026-07-04",
+        "relevanceSummary": "Most recent roundup of Iowa's 2026 general-election polling and political context, including the open U.S. Senate race Ashley Hinson vacated her IA-02 seat to run for.",
+        "tag": "administration",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-07-09-ia-02-initial-build",
+      "startedAt": "2026-07-09T18:00:00Z",
+      "completedAt": "2026-07-09T19:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 15,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "Initial WA-03-cloned build for IA-02, populated from primary-source research (Iowa Secretary of State, Iowa Code, Black Hawk/Jones/Linn county auditors, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including confirmation of the official IA-02 county list against a Legislative Services Agency document, the exact 2024 previousResult vote totals against the SOS canvass PDF, and the HF 2501 provisional-ballot cure deadline against the enrolled bill text."
+    },
+    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-ia02-2026-w28",
+      "periodStart": "2026-07-09",
+      "periodEnd": "2026-07-09",
+      "sourcesChecked": 15,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 15,
+      "sourceErrors": 0,
+      "summary": "Initial build for IA-02, cloned from the WA-03 dashboard template ahead of the November 3, 2026 general election. Open seat: Rep. Ashley Hinson (R) is running for U.S. Senate; primary winners Joe Mitchell (R) and Lindsay James (D) will face off, with independent Dave Bushaw's ballot certification status unconfirmed. Key unresolved conflict: HF 2501's elimination of voter attestation (effective July 1, 2026) creates ambiguity about the provisional-ballot ID cure deadline. General-election calendar anchored on Black Hawk County's published dates: absentee request opens Aug 25, in-person absentee voting opens Oct 14, registration/absentee-mail-request deadline Oct 19, in-person absentee voting closes Nov 2, Election Day Nov 3, absentee receipt deadline 8pm Nov 3 (no postmark grace period). All 15 sources verified as of July 9, 2026. All events and rules flagged needsReview pending county-specific and legislative-text confirmation.",
+      "generatedAt": "2026-07-09T18:00:00Z"
+    }
+  }
+}
