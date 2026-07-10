@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-09",
-  "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-10T21:02:27.949Z",
+  "dataAsOf": "2026-07-10",
+  "updatedAt": "2026-07-10T21:42:01.134Z",
+  "exportedAt": "2026-07-10T21:46:51.195Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -725,17 +725,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-09-ia-02-initial-build",
-      "startedAt": "2026-07-09T18:00:00Z",
-      "completedAt": "2026-07-09T19:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 15,
+      "id": "run-2026-07-10-ia02-auto",
+      "startedAt": "2026-07-10T21:41:11.530Z",
+      "completedAt": "2026-07-10T21:42:01.134Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 8,
       "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Initial WA-03-cloned build for IA-02, populated from primary-source research (Iowa Secretary of State, Iowa Code, Black Hawk/Jones/Linn county auditors, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including confirmation of the official IA-02 county list against a Legislative Services Agency document, the exact 2024 previousResult vote totals against the SOS canvass PDF, and the HF 2501 provisional-ballot cure deadline against the enrolled bill text."
+      "summary": "Automated refresh completed 2026-07-10 for IA-02. Sources checked: 8. LLM verifications: 8. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-17T21:42:01.134Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
