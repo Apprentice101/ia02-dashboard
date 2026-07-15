@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-10",
-  "updatedAt": "2026-07-10T21:42:01.134Z",
-  "exportedAt": "2026-07-10T21:46:51.195Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:19:24.442Z",
+  "exportedAt": "2026-07-15T06:39:22.889Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -92,7 +92,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-ia-voterready": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -725,17 +725,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-10-ia02-auto",
-      "startedAt": "2026-07-10T21:41:11.530Z",
-      "completedAt": "2026-07-10T21:42:01.134Z",
+      "id": "run-2026-07-15-ia02-auto",
+      "startedAt": "2026-07-15T06:18:39.643Z",
+      "completedAt": "2026-07-15T06:19:24.442Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-10 for IA-02. Sources checked: 8. LLM verifications: 8. 1 lastVerified bump on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-15 for IA-02. Sources checked: 8. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-17T21:42:01.134Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:19:24.442Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
