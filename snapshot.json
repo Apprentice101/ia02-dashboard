@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:19:24.442Z",
-  "exportedAt": "2026-07-15T06:39:22.889Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:32:31.579Z",
+  "exportedAt": "2026-07-22T06:50:42.171Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -117,7 +117,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-ia-amiregistered": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -725,17 +725,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-ia02-auto",
-      "startedAt": "2026-07-15T06:18:39.643Z",
-      "completedAt": "2026-07-15T06:19:24.442Z",
+      "id": "run-2026-07-22-ia02-auto",
+      "startedAt": "2026-07-22T06:32:03.373Z",
+      "completedAt": "2026-07-22T06:32:31.579Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for IA-02. Sources checked: 8. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for IA-02. Sources checked: 8. LLM verifications: 7. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:19:24.442Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:32:31.579Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
