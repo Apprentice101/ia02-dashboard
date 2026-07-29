@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:32:31.579Z",
-  "exportedAt": "2026-07-22T21:15:41.361Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:35:49.151Z",
+  "exportedAt": "2026-07-29T06:54:01.660Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -725,17 +725,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-ia02-auto",
-      "startedAt": "2026-07-22T06:32:03.373Z",
-      "completedAt": "2026-07-22T06:32:31.579Z",
+      "id": "run-2026-07-29-ia02-auto",
+      "startedAt": "2026-07-29T06:35:20.771Z",
+      "completedAt": "2026-07-29T06:35:49.151Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 0,
       "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for IA-02. Sources checked: 8. LLM verifications: 7. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-07-29 for IA-02. Sources checked: 8. LLM verifications: 7. 2 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:32:31.579Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:35:49.151Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
