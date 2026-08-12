@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:29:32.567Z",
-  "exportedAt": "2026-08-05T06:48:01.391Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:31:56.457Z",
+  "exportedAt": "2026-08-12T05:47:18.690Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -725,17 +725,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-ia02-auto",
-      "startedAt": "2026-08-05T06:29:08.288Z",
-      "completedAt": "2026-08-05T06:29:32.567Z",
+      "id": "run-2026-08-12-ia02-auto",
+      "startedAt": "2026-08-12T05:31:32.342Z",
+      "completedAt": "2026-08-12T05:31:56.457Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for IA-02. Sources checked: 8. LLM verifications: 7. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for IA-02. Sources checked: 8. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:29:32.567Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:31:56.457Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
