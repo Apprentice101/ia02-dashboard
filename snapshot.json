@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:46:55.784Z",
-  "exportedAt": "2026-08-26T05:15:22.506Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:33:50.202Z",
+  "exportedAt": "2026-09-02T09:09:04.595Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -92,7 +92,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-ia-voterready": {
@@ -117,7 +117,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-ia-amiregistered": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -852,20 +852,100 @@
         "relevanceSummary": "This piece explains that the Iowa Secretary of State is observing Poll Worker Recruitment Day and hosting a webinar to train and recruit poll workers, describing their roles in checking in voters, distributing ballots, and managing voting equipment, which is directly relevant to IA-02 because poll-worker staffing and training affect how smoothly and securely local polling places operate on Election Day.[4]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0manasy",
+        "headline": "Hundreds removed from rolls as county reviews eligibility 67 days before Election Day",
+        "sourceName": "KCRG",
+        "url": "https://www.kcrg.com/2026/08/28/hundreds-removed-rolls-county-reviews-eligibility-67-days-before-election-day/",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This Linn County-focused report describes a large-scale review of voter registrations that has resulted in hundreds of voters being removed from the rolls ahead of the 2026 general election, alerting IA-02 voters that eligibility challenges and registration status checks may affect their ability to cast ballots and may require re-registration.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0r6nnhl",
+        "headline": "Notice of Special Election - Tri-County School",
+        "sourceName": "Keokuk County (Poweshiek County Iowa site repost)",
+        "url": "https://poweshiekcountyiowa.gov/news/notice_of_special_election_tricounty_school/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This county election notice describes temporary polling location changes, polling hours, and detailed voter ID and proof-of-residence requirements for a special election in Keokuk County, illustrating how Iowa’s voter ID rules, provisional ballot procedures, and election-day registration processes work and signaling similar procedures voters in IA-02 will encounter.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-07i9w8p",
+        "headline": "US Postal Service says new mail ballot rules tied to Trump order are in effect",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/27/us-postal-service-mail-ballot-rules-trump-order",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This article details implementation of new U.S. Postal Service rules stemming from Trump’s executive order requiring the Postal Service to refrain from delivering mail-in ballots to voters deemed ineligible under federal data, a change that may affect Iowa’s absentee voters in IA-02 by adding federal gatekeeping to mail ballot delivery.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0uoqlp9",
+        "headline": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+        "sourceName": "AllSides (syndicated news)",
+        "url": "https://www.allsides.com/news/2026-08-27-0700/voting-rights-and-voter-fraud-federal-judge-lifts-final-block-trump-mail-voting-order-clearing-way-midterm-restrictions",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This national legal report explains that a federal judge has lifted the last injunction on President Trump’s executive order restricting mail voting, allowing new requirements for mail ballots—such as federal lists of approved voters—to take effect before the midterms, which could alter how Iowa, including IA-02, administers mail-in ballots if the state complies.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0lz9e06",
+        "headline": "Judge says Iowa Libertarians can't replace governor, Congress nominees",
+        "sourceName": "Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/08/27/libertarian-party-lawsuit-iowa-governor-congress-candidates-nominees/91481453007/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This article reports a court ruling that Iowa’s Libertarian Party cannot retroactively change its process for filling ballot vacancies without having filed required procedures and committee information with the Secretary of State by June, affecting how replacement candidates for governor and Congress can qualify for the November general ballot that IA-02 voters will see.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0hs96n8",
+        "headline": "Postal Service appeals order blocking plan for Trump's push to restrict mail voting",
+        "sourceName": "NPR",
+        "url": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This NPR piece explains the legal fight over Trump’s plan to limit mail voting by delivering ballots only to people on state-provided absentee voter lists, highlighting possible federal constraints on how Iowa’s election officials and Postal Service handle absentee ballots that IA-02 voters rely on.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0wjc20l",
+        "headline": "Absentee Ballot Requests - Elections - Black Hawk County, Iowa",
+        "sourceName": "Black Hawk County Elections",
+        "url": "https://blackhawkcountyelections.iowa.gov/vote/absentee_ballot_requests/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This Black Hawk County election office notice explains how IA-02 voters in the county can receive an absentee ballot request form by mail for the November 3, 2026 general election, reiterates the 5:00 p.m. October 19 request deadline, and outlines when ballots will be mailed and where completed request forms must be returned.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0q1wvly",
+        "headline": "Absentee ballot requests begin in Iowa for Nov. 3 election",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-08-26/absentee-ballot-requests-begin-in-iowa-for-nov-3-election",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This statewide explainer details when Iowa voters, including those in IA-02, can begin requesting absentee ballots for the 2026 general election, the Oct. 19 deadline to submit request forms, required identity information (driver’s license, non-operator ID, or voter ID PIN), and the cutoff for county auditors to receive mailed ballots by 8 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-ia02-auto",
-      "startedAt": "2026-08-26T04:45:25.815Z",
-      "completedAt": "2026-08-26T04:46:55.784Z",
+      "id": "run-2026-09-02-ia02-auto",
+      "startedAt": "2026-09-02T08:32:58.590Z",
+      "completedAt": "2026-09-02T08:33:50.202Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
-      "updatesCreated": 5,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for IA-02. Sources checked: 8. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for IA-02. Sources checked: 8. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:46:55.784Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:33:50.202Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
