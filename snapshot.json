@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:46:48.824Z",
-  "exportedAt": "2026-09-09T09:19:28.716Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:16:05.719Z",
+  "exportedAt": "2026-09-16T09:51:04.988Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -92,7 +92,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-ia-voterready": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -1012,20 +1012,100 @@
         "relevanceSummary": "The Johnson County Auditor reviewed 921 voter registrations to verify address accuracy and urges voters to check and update their registration information, highlighting local procedures for maintaining accurate rolls that apply similarly across Iowa counties.[10]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-05vopqo",
+        "headline": "Why Iowa Secretary of State candidates agree with Supreme Court's ruling on absentee ballots",
+        "sourceName": "KTIV",
+        "url": "https://www.ktiv.com/2026/09/16/why-iowa-secretary-state-candidates-agree-with-supreme-courts-ruling-absentee-ballots/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "This statewide piece reports that absentee ballot request periods for registered Iowa voters began August 25 and discusses Iowa Supreme Court rulings related to absentee ballots, clarifying legal parameters and timelines that govern mail-in voting and ballot requests for IA-02 voters.[13]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0vevmqs",
+        "headline": "Pottawattamie County Proclaims September 15 Voter Registration Day",
+        "sourceName": "Western Iowa Today",
+        "url": "https://westerniowatoday.com/2026/09/15/pottawattamie-county-proclaims-september-15-voter-registration-day/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Although focused on Pottawattamie County, this article underscores Iowa county auditors’ role in providing voter registration and verification resources and references online registration via the Iowa Secretary of State, illustrating processes and tools that IA-02 voters use through their own county auditors.[3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0z8qlic",
+        "headline": "Voter Registration Day - Logan Public Library",
+        "sourceName": "Logan Public Library / Tockify event listing",
+        "url": "https://tockify.com/logan.public.library/detail/604/1789484400000",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This Iowa event listing for National Voter Registration Day explains statewide voter registration eligibility rules and required information (driver’s license, non‑operator ID, or last four digits of Social Security number), which apply equally to IA-02 voters who need to register or update their registration.[10]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0p2yl8l",
+        "headline": "National Voter Registration Day: Iowa Secretary of State ...",
+        "sourceName": "Yahoo News (video segment)",
+        "url": "https://www.yahoo.com/news/videos/national-voter-registration-day-iowa-231123407.html",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This segment highlights the Iowa Secretary of State’s promotion of National Voter Registration Day, reinforcing statewide registration opportunities and outreach efforts that affect all eligible voters in IA-02 by encouraging timely registration before the November general.[6]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0uq20fm",
+        "headline": "Nebraska, Iowa election officials host Voter Registration Day events",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/09/15/nebraska-iowa-election-officials-host-voter-registration-day-events/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This article notes Iowa officials’ National Voter Registration Day events and reiterates that Iowans, including IA-02 residents, can register to vote online or through county auditors, and that Iowa mail-in ballots for the general election begin going out October 19, providing key statewide timelines and registration options.[7]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-002p08b",
+        "headline": "2026 midterm voting guide: What Iowans should know",
+        "sourceName": "We Are Iowa",
+        "url": "https://www.weareiowa.com/article/news/politics/elections/iowa-voter-guide-elections-polls-voter-id-absentee-ballots-2026-midterms/524-9cf0b054-32c0-4414-9e79-704efb8bc292",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide guide explains how Iowa voters—including those in IA-02—can find their polling place, request and return absentee ballots, use in‑person absentee voting at county auditors’ offices, and register or update registration, as well as detailing valid voter-ID options and same‑day registration requirements, which all apply uniformly across the district.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0ubqict",
+        "headline": "2026 General Election Nov 3rd ~ Sample Ballot",
+        "sourceName": "O'Brien County, Iowa (Auditor’s Office)",
+        "url": "https://obriencounty.iowa.gov/2026/09/county-nominations/",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "This county-level notice, while specific to O’Brien County, outlines statewide-structured absentee voting deadlines, in‑person absentee hours, and Election Day polling-place rules (precinct-based voting, 7 a.m.–8 p.m. hours) that mirror procedures IA-02 voters will encounter through their own county auditors.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-01g7mfh",
+        "headline": "Early & Satellite Voting | Linn County, IA - Official Website",
+        "sourceName": "Linn County, Iowa (County Auditor/Election Services page)",
+        "url": "https://www.linncountyiowa.gov/843/Early-Satellite-Voting",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "This Linn County elections page, directly relevant to Cedar Rapids-area IA-02 voters, outlines early and satellite voting procedures, including the requirement to vote absentee ballots on-site, the availability of accessible ballot-marking devices, petition rules for creating satellite locations, and the list of acceptable IDs for early voting.[1]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-ia02-auto",
-      "startedAt": "2026-09-09T08:45:52.177Z",
-      "completedAt": "2026-09-09T08:46:48.824Z",
+      "id": "run-2026-09-16-ia02-auto",
+      "startedAt": "2026-09-16T09:15:21.548Z",
+      "completedAt": "2026-09-16T09:16:05.719Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for IA-02. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for IA-02. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:46:48.824Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:16:05.719Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
