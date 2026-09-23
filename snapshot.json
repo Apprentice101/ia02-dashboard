@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:16:05.719Z",
-  "exportedAt": "2026-09-16T09:51:04.988Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:11:52.558Z",
+  "exportedAt": "2026-09-23T09:37:13.948Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -92,7 +92,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-ia-voterready": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -1092,20 +1092,60 @@
         "relevanceSummary": "This Linn County elections page, directly relevant to Cedar Rapids-area IA-02 voters, outlines early and satellite voting procedures, including the requirement to vote absentee ballots on-site, the availability of accessible ballot-marking devices, petition rules for creating satellite locations, and the list of acceptable IDs for early voting.[1]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0w1v4s2",
+        "headline": "NOTICE OF GENERAL ELECTION",
+        "sourceName": "Telegraph Herald",
+        "url": "https://www.telegraphherald.com/classifieds/legals/ad_2c7d2b84-cdc0-5717-bd45-867b577fd38e.html",
+        "publishedAt": "2026-09-23",
+        "relevanceSummary": "Dubuque County’s official election notice states that the November 3 general election will occur countywide and that testing of voting machines begins September 29 at the county elections office. The equipment-testing schedule is relevant to IA-02 voters in Dubuque County and reflects local election administration.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-04f30sf",
+        "headline": "Iowa officials highlight election security, voting process ahead of Election Day",
+        "sourceName": "CBS2 Iowa",
+        "url": "https://cbs2iowa.com/news/local/iowa-officials-highlight-election-security-voting-process-ahead-of-election-day",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Black Hawk County Auditor Karen Showalter discussed Iowa’s election-security measures and voting process ahead of Election Day. She said there will be no changes to Iowa’s mail-in-ballot process, which directly affects IA-02 voters who vote absentee by mail.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-03igggc",
+        "headline": "General Election Reminders",
+        "sourceName": "Western Iowa Today",
+        "url": "https://westerniowatoday.com/2026/09/21/general-election-reminders/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The article lists Iowa’s October 19 absentee-ballot-request and voter-pre-registration deadline, November 2 in-person absentee deadline, and November 3 polling hours. It also explains identity and residency documents accepted for Election Day registration and voting, making it directly actionable for IA-02 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0038x29",
+        "headline": "Early Voting Starts October 14th in Iowa",
+        "sourceName": "Western Iowa Today",
+        "url": "https://westerniowatoday.com/2026/09/18/early-voting-starts-october-14th-in-iowa/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "The article reports that Iowa early voting begins October 14, absentee ballots must be requested through the county auditor, an ID is required to receive a ballot, and returned ballots must be received by 8 p.m. on Election Day. These statewide procedures apply to IA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-ia02-auto",
-      "startedAt": "2026-09-16T09:15:21.548Z",
-      "completedAt": "2026-09-16T09:16:05.719Z",
+      "id": "run-2026-09-23-ia02-auto",
+      "startedAt": "2026-09-23T09:11:08.581Z",
+      "completedAt": "2026-09-23T09:11:52.558Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
-      "updatesCreated": 8,
+      "sourcesChecked": 9,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for IA-02. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for IA-02. Sources checked: 9. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:16:05.719Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:11:52.558Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
