@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:11:52.558Z",
-  "exportedAt": "2026-09-23T09:37:13.948Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:17:37.592Z",
+  "exportedAt": "2026-09-30T10:37:19.774Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -92,7 +92,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed"
       },
       "src-ia-voterready": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -1132,20 +1132,80 @@
         "relevanceSummary": "The article reports that Iowa early voting begins October 14, absentee ballots must be requested through the county auditor, an ID is required to receive a ballot, and returned ballots must be received by 8 p.m. on Election Day. These statewide procedures apply to IA-02 voters.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0j0towy",
+        "headline": "When does early voting start in my state?",
+        "sourceName": "NewsNation",
+        "url": "https://www.newsnationnow.com/politics/2026-midterm-elections/early-voting-dates-every-state-2/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The article reports that Iowa in-person and absentee early voting runs from October 14 through November 2, with October 19 deadlines for online or mailed voter-registration applications and absentee-ballot requests. These statewide dates apply to IA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0z721bx",
+        "headline": "2026 Battleground Report: How Voting Rules Have Changed Since the 2022 Midterms",
+        "sourceName": "Voting Rights Lab",
+        "url": "https://votingrightslab.org/report/2026-battleground-report-how-voting-rules-have-changed-since-the-2022-midterms/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The report says Iowa eliminated the option for voters without acceptable identification to have another voter attest to their identity. Voters without ID must instead cast a provisional ballot and provide the required documentation by the applicable post-election deadline; mail voters must include an ID copy or exception form.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0ue4vla",
+        "headline": "Voter Pre-Registration Deadline Approaching",
+        "sourceName": "KIOW",
+        "url": "https://kiow.com/2026/09/28/voter-pre-registration-deadline-approaching/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The county election official reminder identifies October 19 at 5:00 p.m. as the voter pre-registration and mailed-absentee-ballot-request deadline, and lists local absentee and Election Day procedures. It is county-specific rather than IA-02-specific, but illustrates Iowa election administration relevant to district voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-02hhxqa",
+        "headline": "Early voting underway in Illinois, starts soon in Iowa: What Quad Cities voters need to know",
+        "sourceName": "KWQC",
+        "url": "https://www.kwqc.com/2026/09/25/early-voting-underway-illinois-starts-soon-iowa-what-quad-cities-voters-need-know/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The article notes that Iowa voters can use the Secretary of State’s website to check registration, find polling locations, and review sample ballots. These statewide tools are relevant to IA-02 voters preparing for the general election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0tl3308",
+        "headline": "Iowa Secretary of State candidates discuss election integrity, accessibility",
+        "sourceName": "KCCI",
+        "url": "https://www.kcci.com/article/paul-pate-ryan-peterman-iowa-secretary-state-candidates/73853950",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "The candidates discussed Iowa election-administration practices including paper ballots, voter ID, post-election audits, and pre-testing of electronic voting equipment. Those statewide procedures apply to voters in IA-02.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0ik8yu7",
+        "headline": "2026 Iowa Election: Who's on my ballot",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-09-24/2026-iowa-ballot-voting-iowa-governor",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "The statewide voter-information guide directs Iowa voters to the Secretary of State’s website to register or check their registration, a resource applicable to voters in IA-02.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-ia02-auto",
-      "startedAt": "2026-09-23T09:11:08.581Z",
-      "completedAt": "2026-09-23T09:11:52.558Z",
+      "id": "run-2026-09-30-ia02-auto",
+      "startedAt": "2026-09-30T10:17:10.774Z",
+      "completedAt": "2026-09-30T10:17:37.592Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 9,
-      "updatesCreated": 4,
+      "sourcesChecked": 8,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for IA-02. Sources checked: 9. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for IA-02. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:11:52.558Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:17:37.592Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
