@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:17:37.592Z",
-  "exportedAt": "2026-09-30T10:37:19.774Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:53:20.187Z",
+  "exportedAt": "2026-10-07T11:12:39.237Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -1192,20 +1192,90 @@
         "relevanceSummary": "The statewide voter-information guide directs Iowa voters to the Secretary of State’s website to register or check their registration, a resource applicable to voters in IA-02.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0j3v5m6",
+        "headline": "PUBLIC NOTICE EARLY VOTING SITES",
+        "sourceName": "Telegraph Herald",
+        "url": "https://www.telegraphherald.com/classifieds/legals/ad_632c61c8-6ffe-5b36-80d1-90ead26dcde2.html",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "Dubuque County lists an October 15 early-voting station in Cascade and states that voter ID is required at early-voting sites. Dubuque County is within IA-02, making the location and identification requirement directly relevant to district voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0k4jcm6",
+        "headline": "Why Iowans are getting voter mailers",
+        "sourceName": "KCCI",
+        "url": "https://www.kcci.com/article/iowa-voter-registration-absentee-ballot-mailers/74040625",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Iowa voters can obtain official voting information and forms through voterready.iowa.gov. For the November 3 general election, absentee-ballot requests are due to county auditors by 5 p.m. October 19, and completed ballots must arrive by 8 p.m. on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0f2wadd",
+        "headline": "Iowa Democrats chip into GOP voter registration lead. Here's where:",
+        "sourceName": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/10/06/iowa-voter-registration-data-2026-election/92057067007/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article identifies October 14 as the start of early voting and absentee-ballot mailing, and October 19 as the deadline for voter pre-registration and mailed-ballot requests. Iowa voters who miss pre-registration may still register in person on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0vqp4nz",
+        "headline": "Why some Iowans are getting voter registration and absentee ballot mailers",
+        "sourceName": "KCRG",
+        "url": "https://www.kcrg.com/2026/10/06/why-some-iowans-are-getting-voter-registration-absentee-ballot-mailers/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Iowa voters should verify that election mailers came from an official county auditor and use voterready.iowa.gov for forms. Absentee-ballot requests must reach the county auditor by 5 p.m. October 19, while completed ballots may be returned by 8 p.m. on Election Day.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0920542",
+        "headline": "Nebraska and Iowa voter registration deadlines near as metro-area voters prep for November election",
+        "sourceName": "KETV",
+        "url": "https://www.ketv.com/article/nebraska-iowa-voter-registration-midterm-elections/73889664",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "The article notes that Iowa permits same-day voter registration at the time of voting, but voters must bring identification. This statewide rule applies to IA-02 voters who are not registered by the pre-registration deadline.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0yopx9l",
+        "headline": "Here's your guide to early voter registration and requirements",
+        "sourceName": "KTIV",
+        "url": "https://www.ktiv.com/2026/10/02/decision-2026-heres-your-guide-early-voter-registration-requirements/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "The guide states that Iowa early voting begins October 14 and explains how civilians can pre-register by submitting a voter-registration form to their county auditor. These statewide procedures apply to IA-02 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0pby09a",
+        "headline": "State Voting Laws Roundup: October 2026",
+        "sourceName": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/state-voting-laws-roundup-october-2026",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "Iowa's voter-ID rules for the midterms remove the option for a voter without acceptable photo ID to have another registered voter in the precinct sign an identity oath. IA-02 voters should therefore bring an accepted photo ID or use the remaining legally available alternatives.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-ia02-auto",
-      "startedAt": "2026-09-30T10:17:10.774Z",
-      "completedAt": "2026-09-30T10:17:37.592Z",
+      "id": "run-2026-10-07-ia02-auto",
+      "startedAt": "2026-10-07T10:52:43.608Z",
+      "completedAt": "2026-10-07T10:53:20.187Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
-      "updatesCreated": 6,
+      "sourcesChecked": 9,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for IA-02. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for IA-02. Sources checked: 9. LLM verifications: 7. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:17:37.592Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:53:20.187Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
