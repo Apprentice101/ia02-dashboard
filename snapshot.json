@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:53:20.187Z",
-  "exportedAt": "2026-10-07T11:12:39.237Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:17:12.907Z",
+  "exportedAt": "2026-10-14T09:32:10.602Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -92,7 +92,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-ia-voterready": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -203,7 +203,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "Anchor source for the statewide-uniform 2026 general-election calendar; Black Hawk is one of IA-02's 22 counties (Waterloo/Cedar Falls)."
       },
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -1262,20 +1262,100 @@
         "relevanceSummary": "Iowa's voter-ID rules for the midterms remove the option for a voter without acceptable photo ID to have another registered voter in the precinct sign an identity oath. IA-02 voters should therefore bring an accepted photo ID or use the remaining legally available alternatives.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0e87avb",
+        "headline": "Early voting begins Wednesday in Iowa",
+        "sourceName": "CBS2 Iowa",
+        "url": "https://cbs2iowa.com/news/local/early-voting-begins-wednesday-in-iowa",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Reports statewide early-voting dates, county-dependent locations and hours, the October 19 absentee-request deadline, and the November 3 ballot-receipt deadline for Iowa voters, including IA-02.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0u7veyq",
+        "headline": "General election information for Black Hawk County voters",
+        "sourceName": "Black Hawk County",
+        "url": "https://www.blackhawkcounty.iowa.gov/CivicAlerts.aspx?aid=725",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Provides Black Hawk County voters with absentee-ballot availability, the October 19 request deadline, registration requirements, and acceptable identification. Black Hawk County is within IA-02.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0m7ww2t",
+        "headline": "Where to vote in Iowa — 2026 polling place, early voting, ID",
+        "sourceName": "Decode the Vote",
+        "url": "https://www.decodethevote.com/election-2026/iowa/where-to-vote",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Provides statewide polling-place, early-voting, registration, identification, and provisional-ballot guidance relevant to Iowa voters, including IA-02.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0x1u193",
+        "headline": "Important November 3 General Election Dates",
+        "sourceName": "Scott County Auditor",
+        "url": "https://www.scottcountyiowa.gov/auditor/post/2026/10/12/important-november-3-general-election-dates",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Lists Iowa general-election dates and early in-person voting hours at the county auditor's office. Although Scott County is outside IA-02, the statewide timing and administrative information is relevant indirectly.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0dmwjlc",
+        "headline": "Early Voting Begins This Week for General Election",
+        "sourceName": "KCI Radio",
+        "url": "https://www.kciiradio.com/2026/10/12/early-voting-begins-this-week-for-general-election/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Details Iowa's early-voting start date, absentee-request deadline, ballot-return deadline, and where to obtain the official request form. The statewide rules apply to IA-02 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-07fcx61",
+        "headline": "Early voting starts this week in Iowa. Here's what you need to know",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-10-12/what-you-need-to-know-early-voting-iowa-2026-election",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Explains Iowa early in-person voting, acceptable identification documents, absentee-ballot return options, and county drop boxes. These statewide procedures apply directly to IA-02 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-005glkl",
+        "headline": "How to register to vote in Iowa or check voter registration for 2026",
+        "sourceName": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/10/09/register-to-vote-iowa-deadline-2026/92117304007/",
+        "publishedAt": "2026-10-09",
+        "relevanceSummary": "Explains Iowa registration deadlines, online and mail registration, and Election Day registration with proof of identity and address. These statewide procedures apply to voters in IA-02.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0ospiha",
+        "headline": "Iowa election guide: Sample ballots for KCCI's coverage area",
+        "sourceName": "KCCI",
+        "url": "https://www.kcci.com/article/iowa-election-guide-sample-ballots-2026-general-election-nov-3/74083749",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "Summarizes statewide early voting, absentee-ballot request and identification requirements, voter registration deadlines, and acceptable in-person IDs applicable to IA-02 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-ia02-auto",
-      "startedAt": "2026-10-07T10:52:43.608Z",
-      "completedAt": "2026-10-07T10:53:20.187Z",
+      "id": "run-2026-10-14-ia02-auto",
+      "startedAt": "2026-10-14T09:16:49.187Z",
+      "completedAt": "2026-10-14T09:17:12.907Z",
       "triggerType": "scheduled",
       "sourcesChecked": 9,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for IA-02. Sources checked: 9. LLM verifications: 7. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for IA-02. Sources checked: 9. LLM verifications: 6. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:53:20.187Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:17:12.907Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
