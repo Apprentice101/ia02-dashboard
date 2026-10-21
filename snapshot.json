@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:17:12.907Z",
-  "exportedAt": "2026-10-14T09:32:10.602Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:08:07.947Z",
+  "exportedAt": "2026-10-21T09:22:01.094Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -1342,20 +1342,90 @@
         "relevanceSummary": "Summarizes statewide early voting, absentee-ballot request and identification requirements, voter registration deadlines, and acceptable in-person IDs applicable to IA-02 voters.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0crqrp7",
+        "headline": "Voter Guide: 2026 Iowa general election",
+        "sourceName": "Iowa Capital Dispatch",
+        "url": "https://iowacapitaldispatch.com/voter-guides/2026-iowa-general-election/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The statewide voter guide highlights the deadline for county auditors to receive absentee-ballot requests by mail and provides election information for Iowa voters, including those in IA-02.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-09z70mc",
+        "headline": "As Iowa harvest picks up, state officials urge farmers to vote early",
+        "sourceName": "KCRG",
+        "url": "https://www.kcrg.com/2026/10/20/iowa-harvest-picks-up-state-officials-urge-farmers-vote-early/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "State officials urged Iowa voters to vote early as harvest season begins. The article explains that absentee-ballot requests by mail closed October 19, while in-person requests remain available at county election offices or satellite locations through November 2, with additional voter-registration, polling-place and absentee-ballot information available from the Secretary of State.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0ihqu4b",
+        "headline": "Woodbury officials remind residents where to cast their votes this election",
+        "sourceName": "KTIV",
+        "url": "https://www.ktiv.com/2026/10/19/woodbury-officials-remind-residents-where-cast-their-votes-this-election/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The county-level election-administration article lists early-voting and satellite locations, curbside voting arrangements and procedures for returning absentee ballots. It also clarifies that absentee ballots cannot be deposited at satellite voting locations.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0ak4lz9",
+        "headline": "GOP-controlled local boards restrict voting on Sundays and find other ways to make voting harder",
+        "sourceName": "CNN",
+        "url": "https://www.cnn.com/2026/10/16/politics/gop-voting-restrictions-midterms-invs",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The article reports that an Iowa law signed in May changed the attestation procedure for voters lacking permitted identification. Those voters must now cast provisional ballots and provide valid ID by the Monday after Election Day for the ballot to count.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0m8omm8",
+        "headline": "Early voting guide: What to know before voting in Iowa's midterm election",
+        "sourceName": "We Are Iowa",
+        "url": "https://www.weareiowa.com/article/news/politics/elections/iowa-early-voting-guide-midterm-election-voter-registration/524-fa60de7d-0bf9-4874-875d-d91b62740734",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "This statewide guide details Iowa's accepted in-person identification, absentee-ballot request deadline, return deadline and ways to deliver a completed absentee ballot. It also explains voter registration, proof-of-residence documents and provisional-ballot procedures relevant to IA-02 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0v3az7x",
+        "headline": "Preparation for the November 3, 2026 General Election",
+        "sourceName": "Jones County Elections",
+        "url": "https://www.jonescountyiowaelections.gov/news/preparation_for_the_november_3_2026_general_election/",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The county election office outlines early in-person voting dates, the absentee-ballot deadline and the identification requirement for in-person voters. It states that pre-registered voters without ID must use the provisional-ballot process rather than an attester.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia02-0ce9e3c",
+        "headline": "What to know as early voting begins in Iowa for 2026 general election",
+        "sourceName": "Iowa Capital Dispatch",
+        "url": "https://iowacapitaldispatch.com/2026/10/14/what-to-know-as-early-voting-begins-in-iowa-for-2026-general-election/",
+        "publishedAt": "2026-10-14",
+        "relevanceSummary": "The statewide election guide explains absentee-ballot ID requirements, the October 19 request deadline and the 8 p.m. Election Day receipt deadline. It also covers accepted in-person identification, online and paper registration, proof-of-residence requirements and provisional ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-ia02-auto",
-      "startedAt": "2026-10-14T09:16:49.187Z",
-      "completedAt": "2026-10-14T09:17:12.907Z",
+      "id": "run-2026-10-21-ia02-auto",
+      "startedAt": "2026-10-21T09:07:48.481Z",
+      "completedAt": "2026-10-21T09:08:07.947Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 9,
-      "updatesCreated": 8,
+      "sourcesChecked": 8,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for IA-02. Sources checked: 9. LLM verifications: 6. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for IA-02. Sources checked: 8. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:17:12.907Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:08:07.947Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
