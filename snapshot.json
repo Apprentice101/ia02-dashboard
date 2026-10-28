@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:08:07.947Z",
-  "exportedAt": "2026-10-21T09:22:01.094Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:19:25.601Z",
+  "exportedAt": "2026-10-28T10:23:43.957Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -267,7 +267,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed"
       },
       "src-wikipedia-ia02": {
@@ -1415,17 +1415,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-ia02-auto",
-      "startedAt": "2026-10-21T09:07:48.481Z",
-      "completedAt": "2026-10-21T09:08:07.947Z",
+      "id": "run-2026-10-28-ia02-auto",
+      "startedAt": "2026-10-28T10:19:23.031Z",
+      "completedAt": "2026-10-28T10:19:25.601Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
-      "updatesCreated": 7,
+      "sourcesChecked": 10,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for IA-02. Sources checked: 8. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for IA-02. Sources checked: 10. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:08:07.947Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:19:25.601Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
