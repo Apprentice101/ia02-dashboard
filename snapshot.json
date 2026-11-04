@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-28",
-  "updatedAt": "2026-10-28T10:19:25.601Z",
-  "exportedAt": "2026-10-28T10:23:43.957Z",
+  "dataAsOf": "2026-11-04",
+  "updatedAt": "2026-11-04T11:46:37.469Z",
+  "exportedAt": "2026-11-04T11:50:07.511Z",
   "districtCode": "IA-02",
   "data": {
     "DISTRICT": {
@@ -179,7 +179,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "unconfirmed"
       },
       "src-ia-legis-redistricting": {
@@ -228,7 +228,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "unconfirmed",
         "notes": "Summarizes the 2021 elimination of the postmark grace period; also describes drop-box siting rule."
       },
@@ -1415,17 +1415,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-28-ia02-auto",
-      "startedAt": "2026-10-28T10:19:23.031Z",
-      "completedAt": "2026-10-28T10:19:25.601Z",
+      "id": "run-2026-11-04-ia02-auto",
+      "startedAt": "2026-11-04T11:46:35.352Z",
+      "completedAt": "2026-11-04T11:46:37.469Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 10,
+      "sourcesChecked": 11,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-28 for IA-02. Sources checked: 10. LLM verifications: 8. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-04 for IA-02. Sources checked: 11. LLM verifications: 10. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-04T10:19:25.601Z",
+    "NEXT_REFRESH_AT": "2026-11-11T11:46:37.469Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia02-2026-w28",
       "periodStart": "2026-07-09",
